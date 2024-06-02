@@ -1,0 +1,221 @@
+.top_nav{
+    background-color: darkcyan;
+}
+.top_nav th{
+    padding: 0px 50px;
+}
+
+.website{
+    width: 50%;
+}
+ .input_text{
+    width: 40%;
+ }
+
+ .input_text input{
+    border-radius: 10px;
+   
+ }
+ .input_text input:hover{
+   
+    background-color: darkgreen;
+ }
+
+ nav{
+   width: 100%;
+   height: 60px;
+   background-color: #00d8d6;
+   padding: 20px ;
+ }
+
+  nav a{
+   width: 100px;
+   margin: 20px;
+   padding:20px 45px;
+   text-align: none;
+   text-decoration: none;
+ }
+
+ nav a:hover{
+   background-color:#4bcffa;
+   text-decoration: underline;
+  
+}
+
+ 
+
+ p img{
+    float: left;
+    padding: 30px;
+ }
+
+ p img:hover{
+   background-image: url(./pic-08.jpg);
+ }
+ 
+ .writting{
+   text-align: justify;
+   background-image: url(./pic-04.jpg);
+ }
+
+ .login{
+   
+   width: 30%;
+   margin-left: 40%;
+   /* background-color: cadetblue; */
+ }
+
+ form input,select{
+   margin-left: 20%;
+   font-size: 20px;
+  font: bold;
+  color: darkslategrey;
+  background-color: #81ecec;
+  border-radius: 10px;
+ }
+
+ form label{
+   margin-left: 20%;
+   font-size: 20px;
+ }
+
+ input[type="text"]{
+   text-align: center;
+    border-radius: 10px;
+    background-color: #81ecec;
+ }
+
+ input[type="text"]:hover{
+  
+   background-color: #00cec9;
+}
+
+input[type="password"]{
+   border-radius: 10px;
+   background-color: #81ecec;
+}
+
+input[type="password"]:hover{
+ 
+  background-color: #00cec9;
+}
+
+
+button{
+   background-color: #81ecec;
+   margin-left: 40%;
+   text-align: center;
+   border-radius: 10px;
+}
+
+button:hover{
+   background-color: #00cec9;
+   border-radius: 10px;
+}
+
+.registration{
+   width: 50%;
+   margin-left: 30%;
+}
+
+.box{
+   margin-left: 35%;
+}
+
+.main_table{
+   width: 50%;
+   height: 500px;
+   margin-left: 25%;
+   background-color: #00cec9;
+   
+}
+
+.main_table:hover{
+   background-color:  #81ecec;
+   box-shadow: 0px 4px 4px 0px solid black;
+   z-index: 5px;
+}
+
+.table_title{
+   background-color: #00d8d6;
+   font-size: large;
+}
+
+td{
+   text-align: center;
+}
+
+.news-table{
+   width: 1200px;
+   border:3px solid green;
+   border-radius: 20px;
+   margin-left: 5%;
+   background-color: cadetblue;
+}
+
+.news-table:hover{
+   background-color: #60a3bc;
+}
+
+tr td img{
+   width: 30%;
+   height: 20%;
+}
+
+tr td img:hover{
+   width: 300px;
+   height: 200px;
+}
+
+.news-td{
+   width: 300px;
+   height: 200px;
+}
+
+.image-table{
+   width: 70%;
+   margin-left: 15%;
+   border-radius: 10px;
+}
+
+.image_td{
+  
+   background-color: #34495e;
+   width: 300px;
+   height: 200px;
+}
+
+.info{
+   margin: 30px;
+   float: left;
+   width: 30%;
+   /* background-color: #34495e; */
+}
+
+.contact-button{
+   margin-left: inherit;
+}
+
+.image-input{
+   width: 80%;
+   height:30px;
+   background-color: #7efff5;
+   border-radius: 10px;
+}
+
+.image-input-sms{
+   width: 80%;
+   height: 100px;
+   background-color: #81ecec;
+   border-radius: #7efff5;
+   text-align: center;
+}
+
+.image-input:hover{
+   background-color:#81ecec;
+}
+
+.address{
+   padding-top: 150px;
+   float: right;
+}
